@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+     <wisatawan>
+         <id_wisatawan>1</id_wisatawan>
+         <nama_wisatawan>Rahmi Intari</nama_wisatawan>
+         <asal_wisatawan>Sukaraja</asal_wisatawan>
+         <email_wisatawan>rahmiintari22@gmail.com</email_wisatawan>
+         <sosmed_wisatawan>ig: rahmiin_</sosmed_wisatawan>
+     </wisatawan>
+     <wisatawan>
+         <id_wisatawan>2</id_wisatawan>
+         <nama_wisatawan>Cecep Hadi Maulana</nama_wisatawan>
+         <asal_wisatawan>Cibeureum</asal_wisatawan>
+         <email_wisatawan>cecephm17@gmail.com</email_wisatawan>
+         <sosmed_wisatawan>ig : cecephm17</sosmed_wisatawan>
+     </wisatawan>
+     <wisatawan>
+         <id_wisatawan>3</id_wisatawan>
+         <nama_wisatawan>Nopan Aditia Rahayu</nama_wisatawan>
+         <asal_wisatawan>Indihiang</asal_wisatawan>
+         <email_wisatawan>novanar11@gmail.com</email_wisatawan>
+         <sosmed_wisatawan>ig : Novanar_</sosmed_wisatawan>
+     </wisatawan>
+     <wisatawan>
+         <id_wisatawan>4</id_wisatawan>
+         <nama_wisatawan>Anifia Husna Z</nama_wisatawan>
+         <asal_wisatawan>Tasikmalaya</asal_wisatawan>
+         <email_wisatawan> </email_wisatawan>
+         <sosmed_wisatawan>fb : anifia husna zenita</sosmed_wisatawan>
+     </wisatawan>
+     <wisatawan>
+         <id_wisatawan>5</id_wisatawan>
+         <nama_wisatawan>Mia</nama_wisatawan>
+         <asal_wisatawan>Kabupaten Tasikmalaya</asal_wisatawan>
+         <email_wisatawan>miammm22@gmail.com</email_wisatawan>
+         <sosmed_wisatawan>fb : MiaMa</sosmed_wisatawan>
+     </wisatawan>
+</xml>
